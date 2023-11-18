@@ -10,3 +10,7 @@ The first step is to create a User Interface.
 The second step is the most important one and in this, to add functionalities to the GUI
 
 Some Functionalities that is used here are sqrt,power,expression
+
+#Output Screenshot
+
+![calculator](https://github.com/RathishR17/Codsoft/assets/102809065/9a50a09f-6b9e-4827-aa9e-e3fbcfbef9b7)
